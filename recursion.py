@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Assignment 14, fibonnaci sequence"""
+"""Assignment 14, recursive functions"""
 
 def fibonnaci(n):
     if n<= 1 :
